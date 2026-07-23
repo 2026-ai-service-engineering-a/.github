@@ -10,7 +10,7 @@
 
 | 구분 | 링크 | 비고 |
 | :--- | :--- | :--- |
-| Awesome AI Stack | [바로가기](https://codecompose7.github.io/awesome-ai-stack/) | AI 스택에 관련된 모음 |
+| Awesome AI Stack | [바로가기](https://codecomposestudio.github.io/awesome-ai-stack/) | AI 스택에 관련된 모음 |
 
 ### 참고자료
 
